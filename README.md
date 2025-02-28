@@ -46,8 +46,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0125-valid-palindrome) |
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0125-valid-palindrome) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
