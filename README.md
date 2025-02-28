@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1013-fibonacci-number) |
 | [2556-convert-the-temperature](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2556-convert-the-temperature) |
 ## Simulation
 |  |
@@ -52,4 +53,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0125-valid-palindrome) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
