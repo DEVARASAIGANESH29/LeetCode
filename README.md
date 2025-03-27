@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2556-convert-the-temperature](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2556-convert-the-temperature) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Simulation
 |  |
 | ------- |
