@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1013-fibonacci-number) |
+| [1610-xor-operation-in-an-array](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2556-convert-the-temperature](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0268-missing-number) |
+| [1610-xor-operation-in-an-array](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 ## Sorting
 |  |
 | ------- |
