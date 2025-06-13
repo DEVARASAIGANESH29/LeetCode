@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0263-ugly-number) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0344-reverse-string) |
 | [2551-apply-operations-to-an-array](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
