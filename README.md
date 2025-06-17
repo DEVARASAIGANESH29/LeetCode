@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2551-apply-operations-to-an-array](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [3811-reverse-degree-of-a-string](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 ## Number Theory
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3379-score-of-a-string](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/3379-score-of-a-string) |
+| [3811-reverse-degree-of-a-string](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
