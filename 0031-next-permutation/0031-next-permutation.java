@@ -1,0 +1,40 @@
+class Solution {
+    public void nextPermutation(int[] nums) {
+        int n = nums.length;
+        int k = n - 2;
+        
+        // Find the largest index k such that nums[k] < nums[k + 1]
+        while (k >= 0 && nums[k] >= nums[k + 1]) {
+            k--;
+        }
+        
+        if (k >= 0) {
+            int l = n - 1;
+            // Find the largest index l > k such that nums[k] < nums[l]
+            while (nums[k] >= nums[l]) {
+                l--;
+            }
+            // Swap nums[k] and nums[l]
+            swap(nums, k, l);
+        }
+        
+        // Reverse the sub-array nums[k + 1:]
+        reverse(nums, k + 1);
+    }
+    
+    private void swap(int[] nums, int i, int j) {
+        int temp = nums[i];
+        nums[i] = nums[j];
+        nums[j] = temp;
+    }
+    
+    private void reverse(int[] nums, int start) {
+        int left = start;
+        int right = nums.length - 1;
+        while (left < right) {
+            swap(nums, left, right);
+            left++;
+            right--;
+        }
+    }
+}
