@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0202-happy-number) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1791-richest-customer-wealth](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Stack
