@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0792-binary-search](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0792-binary-search) |
 | [1580-shuffle-the-array](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0792-binary-search) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
