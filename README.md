@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0204-count-primes) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0055-jump-game) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1791-richest-customer-wealth](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1791-richest-customer-wealth) |
