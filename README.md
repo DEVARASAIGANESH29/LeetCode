@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2556-convert-the-temperature](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2769-find-the-maximum-achievable-number](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Simulation
 |  |
