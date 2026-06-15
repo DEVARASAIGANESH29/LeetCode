@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3668-restore-finishing-order](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3778-transform-array-by-parity](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1635-number-of-good-pairs](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [3668-restore-finishing-order](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/3668-restore-finishing-order) |
 ## Binary Search
 |  |
 | ------- |
