@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2248-intersection-of-multiple-arrays](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2460-apply-operations-to-an-array](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2460-apply-operations-to-an-array) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1635-number-of-good-pairs](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2248-intersection-of-multiple-arrays](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [3668-restore-finishing-order](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/3668-restore-finishing-order) |
 ## Binary Search
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [2248-intersection-of-multiple-arrays](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3778-transform-array-by-parity](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0229-majority-element-ii) |
 | [1635-number-of-good-pairs](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2248-intersection-of-multiple-arrays](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [3778-transform-array-by-parity](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Sliding Window
 |  |
