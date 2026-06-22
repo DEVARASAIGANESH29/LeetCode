@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0792-binary-search) |
+| [0881-boats-to-save-people](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1580-shuffle-the-array](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1603-running-sum-of-1d-array) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0881-boats-to-save-people](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0925-long-pressed-name](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0925-long-pressed-name) |
 | [0953-reverse-only-letters](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0953-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0055-jump-game) |
 | [0680-valid-palindrome-ii](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0881-boats-to-save-people) |
 ## Union Find
 |  |
 | ------- |
