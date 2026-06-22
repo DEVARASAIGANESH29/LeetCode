@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2248-intersection-of-multiple-arrays](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [3668-restore-finishing-order](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/3668-restore-finishing-order) |
 ## Binary Search
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0881-boats-to-save-people](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2248-intersection-of-multiple-arrays](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3778-transform-array-by-parity](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/3778-transform-array-by-parity) |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0925-long-pressed-name) |
 | [0953-reverse-only-letters](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0953-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2551-apply-operations-to-an-array) |
