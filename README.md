@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1189-maximum-number-of-balloons](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2248-intersection-of-multiple-arrays](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [3668-restore-finishing-order](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/3668-restore-finishing-order) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0925-long-pressed-name](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0925-long-pressed-name) |
 | [0953-reverse-only-letters](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0953-reverse-only-letters) |
+| [1189-maximum-number-of-balloons](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3379-score-of-a-string](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/3379-score-of-a-string) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0229-majority-element-ii) |
+| [1189-maximum-number-of-balloons](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2248-intersection-of-multiple-arrays](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [3778-transform-array-by-parity](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/3778-transform-array-by-parity) |
