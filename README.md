@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3379-score-of-a-string](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/3379-score-of-a-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 ## Dynamic Programming
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Matrix
 |  |
 | ------- |
