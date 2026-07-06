@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1013-fibonacci-number) |
 | [1610-xor-operation-in-an-array](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2556-convert-the-temperature](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3379-score-of-a-string](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/3379-score-of-a-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Matrix
 |  |
