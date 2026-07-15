@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0792-binary-search) |
 | [0881-boats-to-save-people](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0881-boats-to-save-people) |
+| [0904-fruit-into-baskets](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1580-shuffle-the-array](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1580-shuffle-the-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1652-defuse-the-bomb](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
