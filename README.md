@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2608-count-the-digits-that-divide-a-number](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0258-add-digits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
 |  |
 | ------- |
