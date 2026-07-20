@@ -1,27 +1,23 @@
 class Solution {
-    public int numSubarraysWithSum(int[] nums, int goal) {
+    public int atmostfinding(int [] nums, int goal){
+        if(goal < 0){
+            return 0;
+        }
         int left = 0;
         int sum = 0;
-        int totalSubarrays = 0; 
-        int prefixZeroes = 0; 
-        
-        for (int right = 0; right < nums.length; right++) {
-            sum += nums[right];
-            while (left < right && sum > goal) {
-                sum -= nums[left];
-                left++;
-                prefixZeroes = 0;
-            }
-            while (left < right && nums[left] == 0 && sum == goal) {
-                prefixZeroes++;
-                sum -= nums[left];
+        int count = 0;
+        for(int right = 0;right <nums.length;right++){
+            sum+= nums[right];
+            while(sum > goal){
+                sum -=nums[left];
                 left++;
             }
-            if (sum == goal) {
-                totalSubarrays += (1 + prefixZeroes); 
-            }
+            count += right - left + 1;
         }
-        
-        return totalSubarrays;
+        return count;
+
+    }
+    public int numSubarraysWithSum(int[] nums, int goal) {
+        return  atmostfinding(nums,goal)-atmostfinding(nums,goal - 1);
     }
 }
