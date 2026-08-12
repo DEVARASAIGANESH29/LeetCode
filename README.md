@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3794-reverse-string-prefix](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## String
 |  |
 | ------- |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3379-score-of-a-string](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/3379-score-of-a-string) |
+| [3794-reverse-string-prefix](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/3794-reverse-string-prefix) |
 | [3811-reverse-degree-of-a-string](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
