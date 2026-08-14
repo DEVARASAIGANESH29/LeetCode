@@ -1,9 +1,9 @@
 class Solution {
-    public boolean check(char[] ch){
+    public boolean check(String word){
         int left = 0;
-        int right = ch.length -1;
+        int right = word.length() -1;
         while(left < right){
-            if(ch[left] == ch[right]){
+            if(word.charAt(left) == word.charAt(right)){
                 left++;
                 right--;
             }
@@ -15,10 +15,9 @@ class Solution {
 
     }
     public String firstPalindrome(String[] words) {
-        for(int i=0;i<words.length; i++){
-            char [] ch = words[i].toCharArray();
-            if(check(ch) == true){
-                return words[i];
+        for (String word : words) {
+            if (check(word)) {
+                return word;
             }
         }
         return "";
