@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0258-add-digits) |
+| [0832-flipping-an-image](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0832-flipping-an-image) |
 | [2048-build-array-from-permutation](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0792-binary-search) |
+| [0832-flipping-an-image](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0832-flipping-an-image](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0832-flipping-an-image) |
 | [1610-xor-operation-in-an-array](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 ## Sorting
 |  |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0832-flipping-an-image](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0925-long-pressed-name](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0925-long-pressed-name) |
 | [0953-reverse-only-letters](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0953-reverse-only-letters) |
@@ -347,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0832-flipping-an-image](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0832-flipping-an-image) |
 | [1791-richest-customer-wealth](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Stack
