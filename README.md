@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2460-apply-operations-to-an-array](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3794-reverse-string-prefix](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/3794-reverse-string-prefix) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3379-score-of-a-string](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/3379-score-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/3794-reverse-string-prefix) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0055-jump-game) |
 | [0680-valid-palindrome-ii](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0881-boats-to-save-people) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Union Find
 |  |
 | ------- |
