@@ -3,14 +3,9 @@ class Solution {
         int start = 0;
         int end = ch.length-1;
         while(start < end){
-            if(ch[start] != ch[end]){
-                if(ch[start] < ch[end]){
-                    ch[end] = ch[start];
-                }
-                else{
-                    ch[start] = ch[end];
-                }
-            }
+            char minChar = (char) Math.min(ch[start], ch[end]);
+            ch[start] = minChar;
+            ch[end] = minChar;
             start++;
             end--;
         }
