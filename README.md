@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2460-apply-operations-to-an-array](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2248-intersection-of-multiple-arrays](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2367-number-of-arithmetic-triplets](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3668-restore-finishing-order](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/3668-restore-finishing-order) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2460-apply-operations-to-an-array](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
