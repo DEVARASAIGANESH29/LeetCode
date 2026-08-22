@@ -1,24 +1,22 @@
 class Solution {
     public int[] diStringMatch(String s) {
-        int perm [] = new int[s.length()+1];
-        int d = s.length();
+        char[] ch = s.toCharArray();
+        int n = ch.length;
+        int[] ans = new int[n+1];
         int low = 0;
-        int j = 0;
-        int index = 0;
-        while(index < s.length()){
-            if(s.charAt(index) == 'D'){
-                perm[j] = d;
-                d--;
-                j++;
-            }
-            else if(s.charAt(index) == 'I'){
-                perm[j] = low;
-                j++;
+        int high = n;
+        for(int i = 0;i<n;i++){
+            if(ch[i] == 'I'){
+                ans[i] = low;
                 low++;
             }
-            index++;
+            else if(ch[i] == 'D'){
+                ans[i] = high;
+                high--;
+            }
         }
-        perm[j] = low;
-        return perm;
+        ans[n] = low;
+        return ans;
+        
     }
 }
