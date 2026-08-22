@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [0942-di-string-match](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0925-long-pressed-name](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0925-long-pressed-name) |
+| [0942-di-string-match](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0942-di-string-match) |
 | [0953-reverse-only-letters](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0953-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0925-long-pressed-name](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0925-long-pressed-name) |
+| [0942-di-string-match](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0942-di-string-match) |
 | [0953-reverse-only-letters](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1189-maximum-number-of-balloons](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0055-jump-game) |
 | [0680-valid-palindrome-ii](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0881-boats-to-save-people) |
+| [0942-di-string-match](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0942-di-string-match) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Union Find
 |  |
