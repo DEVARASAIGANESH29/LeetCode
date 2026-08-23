@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3778-transform-array-by-parity](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/3778-transform-array-by-parity) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Two Pointers
 |  |
 | ------- |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3794-reverse-string-prefix](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## String
 |  |
 | ------- |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3811-reverse-degree-of-a-string](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Dynamic Programming
 |  |
 | ------- |
