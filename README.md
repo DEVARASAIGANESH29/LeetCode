@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2367-number-of-arithmetic-triplets](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2460-apply-operations-to-an-array](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/2460-apply-operations-to-an-array) |
