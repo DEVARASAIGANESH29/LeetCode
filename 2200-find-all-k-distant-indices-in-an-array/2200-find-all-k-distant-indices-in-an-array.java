@@ -1,24 +1,26 @@
+import java.util.ArrayList;
+import java.util.List;
+
 class Solution {
     public List<Integer> findKDistantIndices(int[] nums, int key, int k) {
-        int left = 0;
-        int right = nums.length-1;
-        int [] count = new int[nums.length];
-        int index = 0;
         List<Integer> result = new ArrayList<>();
-        while(left < nums.length){
-            if(nums[left] == key ){
-                count[index++] = left;
-            }
-            left++;
-        }
-        for(int i = 0;i<nums.length;i++){
-            for(int j =0; j<index;j++){
-                if(Math.abs(i - count[j]) <= k){
-                    result.add(i);
-                    break;
-                }
-            }
+        int n = nums.length;
+        int start = 0;
+        
+        for (int i = 0; i < n; i++) {
+            if (nums[i] == key) {
 
+                int leftBound = Math.max(start, i - k);
+                int rightBound = Math.min(i + k, n - 1);
+                
+
+                while (leftBound <= rightBound) {
+                    result.add(leftBound);
+                    leftBound++;
+                }
+                
+                start = leftBound; 
+            }
         }
         return result;
     }
