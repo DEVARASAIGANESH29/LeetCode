@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1153-product-sales-analysis-i](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1587-bank-account-summary-ii](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1587-bank-account-summary-ii) |
 | [1693-daily-leads-and-partners](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1693-daily-leads-and-partners) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1741-find-total-time-spent-by-each-employee) |
