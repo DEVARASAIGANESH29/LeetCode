@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0619-biggest-single-number) |
 | [0627-swap-sex-of-employees](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/0627-swap-sex-of-employees) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1075-project-employees-i](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1075-project-employees-i) |
 | [1153-product-sales-analysis-i](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1153-product-sales-analysis-i) |
 | [1179-reformat-department-table](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1179-reformat-department-table) |
 | [1258-article-views-i](https://github.com/DEVARASAIGANESH29/LeetCode/tree/master/1258-article-views-i) |
