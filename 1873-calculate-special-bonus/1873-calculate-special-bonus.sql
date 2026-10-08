@@ -1,4 +1,11 @@
 # Write your MySQL query statement below
-select employee_id,if(substr(name,1,1) = 'M' or employee_id%2 = 0 ,0,salary) as bonus
+select employee_id,
+CASE
+    when employee_id %2 = 1
+    and name not like 'M%'
+    then salary
+    else 0
+END as bonus
 from Employees
 order by employee_id;
+    
